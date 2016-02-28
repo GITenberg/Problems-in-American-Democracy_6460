@@ -1,0 +1,28 @@
+_repo: Problems-in-American-Democracy_6460
+creator:
+  author:
+    agent_name: Williamson, Thames
+    aliases:
+    - Williamson, Thames Ross
+    - Williamson, Ross
+    birthdate: 1894
+    deathdate: 1961
+    gutenberg_agent_id: '2052'
+    url: http://www.gutenberg.org/2009/agents/2052
+description: Contient le texte de la Constitution des Etats-Unis
+gutenberg_issued: '2004-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6460'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Social problems'
+- !lcsh 'United States -- Economic conditions -- 1918-1945'
+- !lcsh 'United States -- Social conditions'
+- !lcsh 'United States -- Politics and government'
+- !lcc 'JK'
+title: Problems in American Democracy
+url: http://www.gutenberg.org/ebooks/6460
